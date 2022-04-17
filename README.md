@@ -1,2 +1,0 @@
-# CDAC-DEMO
-Learning git
